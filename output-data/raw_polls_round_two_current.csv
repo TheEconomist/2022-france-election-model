@@ -1,0 +1,248 @@
+end_date,end_date.num,polling_firm,sample_size,weight,matchup,cand1,cand2,cand1_pct,cand2_pct
+2021-09-02,18872,Ifop,1334,0.9239396918261381,macronVVle_pen,macron,le_pen,0.56,0.44
+2021-09-02,18872,Ifop,1334,0.9239396918261381,macronVVpecresse,macron,pecresse,0.5,0.5
+2021-09-02,18872,Ifop,1334,0.9239396918261381,pecresseVVle_pen,pecresse,le_pen,0.58,0.42
+2021-09-06,18876,Harris Interactive,1076,0.8297969713595651,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-09-13,18883,Elabe,948,0.7788787915341795,macronVVle_pen,macron,le_pen,0.59,0.41
+2021-09-13,18883,Harris Interactive,1063,0.8247690245212025,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-09-20,18890,Harris Interactive,1022,0.8087069168143407,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-09-23,18893,Odoxa,810,0.7199597527725071,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-09-23,18893,Opinion Way,980,0.7919153252372911,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-09-27,18897,Harris Interactive,1048,0.8189291892703903,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-10-01,18901,Ifop,1351,0.9298082263591361,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-10-01,18901,Ifop,1351,0.9298082263591361,macronVVpecresse,macron,pecresse,0.59,0.41
+2021-10-01,18901,Ifop,1351,0.9298082263591361,pecresseVVle_pen,pecresse,le_pen,0.58,0.42
+2021-10-04,18904,Harris Interactive,1062,0.8243809892023729,macronVVle_pen,macron,le_pen,0.53,0.47
+2021-10-04,18904,Harris Interactive,1062,0.8243809892023729,macronVVmelenchon,macron,melenchon,0.63,0.37
+2021-10-04,18904,Harris Interactive,1062,0.8243809892023729,macronVVpecresse,macron,pecresse,0.57,0.43
+2021-10-04,18904,Harris Interactive,1062,0.8243809892023729,macronVVzemmour,macron,zemmour,0.55,0.45
+2021-10-06,18906,Elabe,927,0.7702036577574193,macronVVle_pen,macron,le_pen,0.6,0.4
+2021-10-06,18906,Elabe,927,0.7702036577574193,macronVVzemmour,macron,zemmour,0.63,0.37
+2021-10-11,18911,Harris Interactive,1051,0.8201004831075142,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-10-11,18911,Harris Interactive,1051,0.8201004831075142,macronVVmelenchon,macron,melenchon,0.62,0.38
+2021-10-11,18911,Harris Interactive,1051,0.8201004831075142,macronVVpecresse,macron,pecresse,0.56,0.44
+2021-10-11,18911,Harris Interactive,1051,0.8201004831075142,macronVVzemmour,macron,zemmour,0.57,0.43
+2021-10-11,18911,Odoxa,2450,1.252128070871431,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-10-11,18911,Odoxa,2450,1.252128070871431,macronVVzemmour,macron,zemmour,0.62,0.38
+2021-10-18,18918,Harris Interactive,2006,1.1330032980775184,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-10-18,18918,Harris Interactive,2006,1.1330032980775184,macronVVmelenchon,macron,melenchon,0.62,0.38
+2021-10-18,18918,Harris Interactive,2006,1.1330032980775184,macronVVpecresse,macron,pecresse,0.57,0.43
+2021-10-18,18918,Harris Interactive,2006,1.1330032980775184,macronVVzemmour,macron,zemmour,0.57,0.43
+2021-10-20,18920,Opinion Way,1035,0.8138341029787385,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-10-25,18925,Harris Interactive,2060,1.1481518235097152,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-10-25,18925,Harris Interactive,2060,1.1481518235097152,macronVVmelenchon,macron,melenchon,0.62,0.38
+2021-10-25,18925,Harris Interactive,2060,1.1481518235097152,macronVVpecresse,macron,pecresse,0.58,0.42
+2021-10-25,18925,Harris Interactive,2060,1.1481518235097152,macronVVzemmour,macron,zemmour,0.58,0.42
+2021-10-27,18927,Elabe,948,0.7788787915341795,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-10-27,18927,Elabe,948,0.7788787915341795,macronVVzemmour,macron,zemmour,0.61,0.39
+2021-10-30,18930,Harris Interactive,2003,1.132155770245603,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-10-30,18930,Harris Interactive,2003,1.132155770245603,macronVVmelenchon,macron,melenchon,0.62,0.38
+2021-10-30,18930,Harris Interactive,2003,1.132155770245603,macronVVpecresse,macron,pecresse,0.57,0.43
+2021-10-30,18930,Harris Interactive,2003,1.132155770245603,macronVVzemmour,macron,zemmour,0.57,0.43
+2021-11-05,18936,Ifop,1358,0.9322139437729595,macronVVle_pen,macron,le_pen,0.56,0.44
+2021-11-05,18936,Ifop,1358,0.9322139437729595,macronVVpecresse,macron,pecresse,0.55,0.45
+2021-11-05,18936,Ifop,1358,0.9322139437729595,macronVVzemmour,macron,zemmour,0.59,0.41
+2021-11-08,18939,Harris Interactive,2001,1.1315903990391878,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-11-08,18939,Harris Interactive,2001,1.1315903990391878,macronVVmelenchon,macron,melenchon,0.63,0.37
+2021-11-08,18939,Harris Interactive,2001,1.1315903990391878,macronVVpecresse,macron,pecresse,0.57,0.43
+2021-11-08,18939,Harris Interactive,2001,1.1315903990391878,macronVVzemmour,macron,zemmour,0.58,0.42
+2021-11-11,18942,Elabe,1082,0.8321073154261689,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-11-11,18942,Elabe,1082,0.8321073154261689,macronVVzemmour,macron,zemmour,0.65,0.35
+2021-11-15,18946,Harris Interactive,2027,1.1389183337418756,macronVVle_pen,macron,le_pen,0.59,0.41
+2021-11-15,18946,Harris Interactive,2027,1.1389183337418756,macronVVmelenchon,macron,melenchon,0.64,0.36
+2021-11-15,18946,Harris Interactive,2027,1.1389183337418756,macronVVpecresse,macron,pecresse,0.58,0.42
+2021-11-15,18946,Harris Interactive,2027,1.1389183337418756,macronVVzemmour,macron,zemmour,0.56,0.44
+2021-11-17,18948,Opinion Way,1454,0.9646014556782281,macronVVle_pen,macron,le_pen,0.56,0.44
+2021-11-22,18953,Harris Interactive,2120,1.1647524702317968,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-11-22,18953,Harris Interactive,2120,1.1647524702317968,macronVVmelenchon,macron,melenchon,0.64,0.36
+2021-11-22,18953,Harris Interactive,2120,1.1647524702317968,macronVVpecresse,macron,pecresse,0.58,0.42
+2021-11-22,18953,Harris Interactive,2120,1.1647524702317968,macronVVzemmour,macron,zemmour,0.59,0.41
+2021-11-24,18955,Elabe,1042,0.816581561346336,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-11-25,18956,Ifop,1351,0.9298082263591361,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-11-29,18960,Harris Interactive,2071,1.1512131960648249,macronVVle_pen,macron,le_pen,0.54,0.46
+2021-11-29,18960,Harris Interactive,2071,1.1512131960648249,macronVVmelenchon,macron,melenchon,0.64,0.36
+2021-11-29,18960,Harris Interactive,2071,1.1512131960648249,macronVVpecresse,macron,pecresse,0.59,0.41
+2021-11-29,18960,Harris Interactive,2071,1.1512131960648249,macronVVzemmour,macron,zemmour,0.6,0.4
+2021-12-06,18967,Harris Interactive,2129,1.167222203769887,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-12-06,18967,Harris Interactive,2129,1.167222203769887,macronVVpecresse,macron,pecresse,0.53,0.47
+2021-12-06,18967,Harris Interactive,2129,1.167222203769887,macronVVzemmour,macron,zemmour,0.62,0.38
+2021-12-06,18967,Ifop,1341,0.9263606496885493,macronVVle_pen,macron,le_pen,0.56,0.44
+2021-12-06,18967,Ifop,1341,0.9263606496885493,macronVVpecresse,macron,pecresse,0.52,0.48
+2021-12-06,18967,Ifop,1341,0.9263606496885493,macronVVzemmour,macron,zemmour,0.63,0.37
+2021-12-07,18968,Elabe,1110,0.842805185688955,macronVVpecresse,macron,pecresse,0.48,0.52
+2021-12-09,18970,Odoxa,1815,1.0777152403312589,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-12-09,18970,Odoxa,1815,1.0777152403312589,macronVVpecresse,macron,pecresse,0.51,0.49
+2021-12-13,18974,Harris Interactive,2159,1.1754171712692587,macronVVle_pen,macron,le_pen,0.56,0.44
+2021-12-13,18974,Harris Interactive,2159,1.1754171712692587,macronVVpecresse,macron,pecresse,0.51,0.49
+2021-12-13,18974,Harris Interactive,2159,1.1754171712692587,macronVVzemmour,macron,zemmour,0.62,0.38
+2021-12-15,18976,Ifop,1017,0.8067262454181661,macronVVle_pen,macron,le_pen,0.57,0.43
+2021-12-15,18976,Ifop,1017,0.8067262454181661,macronVVpecresse,macron,pecresse,0.51,0.49
+2021-12-15,18976,Opinion Way,1470,0.9698942331607746,macronVVle_pen,macron,le_pen,0.57,0.43
+2021-12-15,18976,Opinion Way,1470,0.9698942331607746,macronVVpecresse,macron,pecresse,0.54,0.46
+2021-12-20,18981,Elabe,1081,0.8317227037506988,macronVVle_pen,macron,le_pen,0.57,0.43
+2021-12-20,18981,Elabe,1081,0.8317227037506988,macronVVpecresse,macron,pecresse,0.51,0.49
+2021-12-20,18981,Elabe,1081,0.8317227037506988,macronVVzemmour,macron,zemmour,0.67,0.33
+2021-12-22,18983,Opinion Way,1048,0.8189291892703903,macronVVle_pen,macron,le_pen,0.58,0.42
+2021-12-22,18983,Opinion Way,1048,0.8189291892703903,macronVVpecresse,macron,pecresse,0.53,0.47
+2021-12-22,18983,Opinion Way,1048,0.8189291892703903,macronVVzemmour,macron,zemmour,0.66,0.34
+2021-12-22,18983,Opinion Way,1048,0.8189291892703903,pecresseVVle_pen,pecresse,le_pen,0.63,0.37
+2021-12-22,18983,Opinion Way,1048,0.8189291892703903,pecresseVVzemmour,pecresse,zemmour,0.7,0.3
+2021-12-31,18992,Harris Interactive,2183,1.1819322355141946,macronVVle_pen,macron,le_pen,0.55,0.45
+2021-12-31,18992,Harris Interactive,2183,1.1819322355141946,macronVVpecresse,macron,pecresse,0.51,0.49
+2021-12-31,18992,Harris Interactive,2183,1.1819322355141946,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-01-03,18995,Opinion Way,1059,0.8232157858084133,macronVVle_pen,macron,le_pen,0.58,0.42
+2022-01-03,18995,Opinion Way,1059,0.8232157858084133,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-04,18996,Opinion Way,1568,1.0017024566971449,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-04,18996,Opinion Way,1568,1.0017024566971449,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-05,18997,Opinion Way,1501,0.9800676535378028,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-05,18997,Opinion Way,1501,0.9800676535378028,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-06,18998,Ipsos,780,0.7065013744297,macronVVle_pen,macron,le_pen,0.58,0.42
+2022-01-06,18998,Ipsos,780,0.7065013744297,macronVVpecresse,macron,pecresse,0.55,0.45
+2022-01-06,18998,Opinion Way,1534,0.9907826423622935,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-06,18998,Opinion Way,1534,0.9907826423622935,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-01-07,18999,Opinion Way,1561,0.999464012655525,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-07,18999,Opinion Way,1561,0.999464012655525,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-01-10,19002,Harris Interactive,2124,1.1658507754925438,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-01-10,19002,Harris Interactive,2124,1.1658507754925438,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-01-10,19002,Harris Interactive,2124,1.1658507754925438,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-01-10,19002,Ifop,1373,0.9373482617124393,macronVVle_pen,macron,le_pen,0.58,0.42
+2022-01-10,19002,Ifop,1373,0.9373482617124393,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-10,19002,Opinion Way,1644,1.0256911689477757,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-10,19002,Opinion Way,1644,1.0256911689477757,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-11,19003,Elabe,1071,0.827866759461111,macronVVle_pen,macron,le_pen,0.545,0.455
+2022-01-11,19003,Elabe,1071,0.827866759461111,macronVVpecresse,macron,pecresse,0.5,0.5
+2022-01-11,19003,Elabe,1071,0.827866759461111,macronVVzemmour,macron,zemmour,0.63,0.37
+2022-01-11,19003,Ifop,1365,0.934613468833157,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-11,19003,Ifop,1365,0.934613468833157,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-11,19003,Opinion Way,1613,1.0159747005043418,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-11,19003,Opinion Way,1613,1.0159747005043418,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-12,19004,Ifop,1371,0.9366653120686094,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-12,19004,Ifop,1371,0.9366653120686094,macronVVpecresse,macron,pecresse,0.535,0.465
+2022-01-12,19004,Opinion Way,1604,1.0131363363351098,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-12,19004,Opinion Way,1604,1.0131363363351098,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-13,19005,Ifop,1375,0.9380307141229854,macronVVle_pen,macron,le_pen,0.58,0.42
+2022-01-13,19005,Ifop,1375,0.9380307141229854,macronVVpecresse,macron,pecresse,0.535,0.465
+2022-01-13,19005,Opinion Way,1575,1.0039359097635205,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-13,19005,Opinion Way,1575,1.0039359097635205,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-14,19006,Ifop,1383,0.9407555730629839,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-14,19006,Ifop,1383,0.9407555730629839,macronVVpecresse,macron,pecresse,0.535,0.465
+2022-01-14,19006,Opinion Way,1577,1.0045731271617084,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-14,19006,Opinion Way,1577,1.0045731271617084,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-17,19009,Harris Interactive,2131,1.1677703241117996,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-01-17,19009,Harris Interactive,2131,1.1677703241117996,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-17,19009,Harris Interactive,2131,1.1677703241117996,macronVVzemmour,macron,zemmour,0.63,0.37
+2022-01-17,19009,Ifop,1394,0.9444894182647934,macronVVle_pen,macron,le_pen,0.555,0.445
+2022-01-17,19009,Ifop,1394,0.9444894182647934,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-17,19009,Ipsos,8232,2.2951886658189458,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-17,19009,Ipsos,8232,2.2951886658189458,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-17,19009,Opinion Way,1093,0.8363263701156686,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-17,19009,Opinion Way,1093,0.8363263701156686,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-18,19010,Ifop,1376,0.9383717542048307,macronVVle_pen,macron,le_pen,0.545,0.455
+2022-01-18,19010,Ifop,1376,0.9383717542048307,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-18,19010,Opinion Way,1624,1.019433080211738,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-18,19010,Opinion Way,1624,1.019433080211738,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-19,19011,Ifop,1365,0.934613468833157,macronVVle_pen,macron,le_pen,0.54,0.46
+2022-01-19,19011,Ifop,1365,0.934613468833157,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-19,19011,Opinion Way,1626,1.020060616793305,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-19,19011,Opinion Way,1626,1.020060616793305,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-20,19012,Ifop,1377,0.9387126703847266,macronVVle_pen,macron,le_pen,0.545,0.455
+2022-01-20,19012,Ifop,1377,0.9387126703847266,macronVVpecresse,macron,pecresse,0.545,0.455
+2022-01-20,19012,Opinion Way,1011,0.8043430016717074,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-20,19012,Opinion Way,1011,0.8043430016717074,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-20,19012,Opinion Way,1603,1.0128204715304463,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-20,19012,Opinion Way,1603,1.0128204715304463,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-21,19013,Ifop,1386,0.9417753626014977,macronVVle_pen,macron,le_pen,0.555,0.445
+2022-01-21,19013,Ifop,1386,0.9417753626014977,macronVVpecresse,macron,pecresse,0.55,0.45
+2022-01-21,19013,Opinion Way,1613,1.0159747005043418,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-21,19013,Opinion Way,1613,1.0159747005043418,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-24,19016,Harris Interactive,2496,1.2638280795374728,macronVVle_pen,macron,le_pen,0.54,0.46
+2022-01-24,19016,Harris Interactive,2496,1.2638280795374728,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-24,19016,Harris Interactive,2496,1.2638280795374728,macronVVzemmour,macron,zemmour,0.63,0.37
+2022-01-24,19016,Ifop,1349,0.9291197344273644,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-24,19016,Ifop,1349,0.9291197344273644,macronVVpecresse,macron,pecresse,0.55,0.45
+2022-01-24,19016,Opinion Way,1650,1.0275611635156778,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-24,19016,Opinion Way,1650,1.0275611635156778,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-25,19017,Opinion Way,1634,1.0225669120129612,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-25,19017,Opinion Way,1634,1.0225669120129612,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-26,19018,Ifop,1358,0.9322139437729595,macronVVle_pen,macron,le_pen,0.565,0.435
+2022-01-26,19018,Ifop,1358,0.9322139437729595,macronVVpecresse,macron,pecresse,0.545,0.455
+2022-01-26,19018,Opinion Way,1629,1.0210011984747411,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-26,19018,Opinion Way,1629,1.0210011984747411,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-27,19019,Ifop,1362,0.9335858561322719,macronVVle_pen,macron,le_pen,0.565,0.435
+2022-01-27,19019,Ifop,1362,0.9335858561322719,macronVVpecresse,macron,pecresse,0.545,0.455
+2022-01-27,19019,Opinion Way,988,0.7951410629295093,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-01-27,19019,Opinion Way,988,0.7951410629295093,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-01-27,19019,Opinion Way,1567,1.0013829853266543,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-27,19019,Opinion Way,1567,1.0013829853266543,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-28,19020,Ifop,1353,0.9304962088627061,macronVVle_pen,macron,le_pen,0.555,0.445
+2022-01-28,19020,Ifop,1353,0.9304962088627061,macronVVpecresse,macron,pecresse,0.545,0.455
+2022-01-28,19020,Opinion Way,1568,1.0017024566971449,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-28,19020,Opinion Way,1568,1.0017024566971449,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-01-31,19023,Harris Interactive,2141,1.1705070757538842,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-01-31,19023,Harris Interactive,2141,1.1705070757538842,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-31,19023,Harris Interactive,2141,1.1705070757538842,macronVVzemmour,macron,zemmour,0.62,0.38
+2022-01-31,19023,Ifop,1342,0.9267059845186952,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-01-31,19023,Ifop,1342,0.9267059845186952,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-01-31,19023,Opinion Way,1655,1.0291168966752802,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-01-31,19023,Opinion Way,1655,1.0291168966752802,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-02-01,19024,Ifop,1343,0.9270511907085484,macronVVle_pen,macron,le_pen,0.545,0.455
+2022-02-01,19024,Ifop,1343,0.9270511907085484,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-01,19024,Opinion Way,1666,1.0325312586007573,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-01,19024,Opinion Way,1666,1.0325312586007573,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-02-02,19025,Elabe,1113,0.8439433431091884,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-02,19025,Elabe,1113,0.8439433431091884,macronVVpecresse,macron,pecresse,0.555,0.445
+2022-02-02,19025,Elabe,1113,0.8439433431091884,macronVVzemmour,macron,zemmour,0.645,0.355
+2022-02-02,19025,Ifop,1348,0.9287752970719036,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-02,19025,Ifop,1348,0.9287752970719036,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-02-02,19025,Opinion Way,1639,1.0241302318555923,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-02,19025,Opinion Way,1639,1.0241302318555923,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-02-02,19025,Opinion Way,1639,1.0241302318555923,macronVVzemmour,macron,zemmour,0.6,0.4
+2022-02-03,19026,Ifop,1357,0.9318706500976202,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-03,19026,Ifop,1357,0.9318706500976202,macronVVpecresse,macron,pecresse,0.55,0.45
+2022-02-03,19026,Ipsos,818,0.7235063740031837,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-02-03,19026,Ipsos,818,0.7235063740031837,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-03,19026,Ipsos,818,0.7235063740031837,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-02-03,19026,Opinion Way,977,0.7907022808817269,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-03,19026,Opinion Way,977,0.7907022808817269,macronVVpecresse,macron,pecresse,0.52,0.48
+2022-02-03,19026,Opinion Way,977,0.7907022808817269,macronVVzemmour,macron,zemmour,0.62,0.38
+2022-02-03,19026,Opinion Way,1609,1.0147141855022006,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-03,19026,Opinion Way,1609,1.0147141855022006,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-03,19026,Opinion Way,1609,1.0147141855022006,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-02-04,19027,Ifop,1348,0.9287752970719036,macronVVle_pen,macron,le_pen,0.555,0.445
+2022-02-04,19027,Ifop,1348,0.9287752970719036,macronVVpecresse,macron,pecresse,0.56,0.44
+2022-02-04,19027,Opinion Way,1609,1.0147141855022006,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-04,19027,Opinion Way,1609,1.0147141855022006,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-04,19027,Opinion Way,1609,1.0147141855022006,macronVVzemmour,macron,zemmour,0.62,0.38
+2022-02-07,19030,Harris Interactive,2023,1.1377940310653232,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-07,19030,Harris Interactive,2023,1.1377940310653232,macronVVpecresse,macron,pecresse,0.55,0.45
+2022-02-07,19030,Harris Interactive,2023,1.1377940310653232,macronVVzemmour,macron,zemmour,0.63,0.37
+2022-02-07,19030,Opinion Way,1630,1.021314533206216,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-07,19030,Opinion Way,1630,1.021314533206216,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-02-07,19030,Opinion Way,1630,1.021314533206216,macronVVzemmour,macron,zemmour,0.62,0.38
+2022-02-08,19031,Ifop,1351,0.9298082263591361,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-08,19031,Ifop,1351,0.9298082263591361,macronVVpecresse,macron,pecresse,0.555,0.445
+2022-02-08,19031,Opinion Way,1784,1.0684719730763625,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-08,19031,Opinion Way,1784,1.0684719730763625,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-08,19031,Opinion Way,1784,1.0684719730763625,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-02-09,19032,BVA,1049,0.8193198066020568,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-09,19032,BVA,1049,0.8193198066020568,macronVVpecresse,macron,pecresse,0.56,0.44
+2022-02-09,19032,BVA,1049,0.8193198066020568,macronVVzemmour,macron,zemmour,0.62,0.38
+2022-02-09,19032,Ifop,1356,0.9315272299090286,macronVVle_pen,macron,le_pen,0.54,0.46
+2022-02-09,19032,Ifop,1356,0.9315272299090286,macronVVpecresse,macron,pecresse,0.545,0.455
+2022-02-09,19032,Opinion Way,1669,1.0334604904599805,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-09,19032,Opinion Way,1669,1.0334604904599805,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-09,19032,Opinion Way,1669,1.0334604904599805,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-02-10,19033,Ifop,1377,0.9387126703847266,macronVVle_pen,macron,le_pen,0.545,0.455
+2022-02-10,19033,Ifop,1377,0.9387126703847266,macronVVpecresse,macron,pecresse,0.55,0.45
+2022-02-10,19033,Opinion Way,983,0.7931265143089116,macronVVle_pen,macron,le_pen,0.57,0.43
+2022-02-10,19033,Opinion Way,983,0.7931265143089116,macronVVpecresse,macron,pecresse,0.54,0.46
+2022-02-10,19033,Opinion Way,983,0.7931265143089116,macronVVzemmour,macron,zemmour,0.63,0.37
+2022-02-10,19033,Opinion Way,1648,1.0269382103432259,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-10,19033,Opinion Way,1648,1.0269382103432259,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-10,19033,Opinion Way,1648,1.0269382103432259,macronVVzemmour,macron,zemmour,0.62,0.38
+2022-02-11,19034,Ifop,1382,0.9404153974694853,macronVVle_pen,macron,le_pen,0.55,0.45
+2022-02-11,19034,Ifop,1382,0.9404153974694853,macronVVpecresse,macron,pecresse,0.56,0.44
+2022-02-11,19034,Ifop,1382,0.9404153974694853,macronVVzemmour,macron,zemmour,0.61,0.39
+2022-02-11,19034,Opinion Way,1615,1.016604371900708,macronVVle_pen,macron,le_pen,0.56,0.44
+2022-02-11,19034,Opinion Way,1615,1.016604371900708,macronVVpecresse,macron,pecresse,0.53,0.47
+2022-02-11,19034,Opinion Way,1615,1.016604371900708,macronVVzemmour,macron,zemmour,0.62,0.38

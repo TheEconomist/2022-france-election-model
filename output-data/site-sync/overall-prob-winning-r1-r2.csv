@@ -1,0 +1,13 @@
+cand,prob_making_r2,prob_winning_r2,prob_first_place_r1,prob_second_place_r1
+macron,0.909,0.8092,0.779,0.13
+pecresse,0.283,0.1055,0.092,0.191
+le_pen,0.467,0.0584,0.053,0.414
+zemmour,0.27,0.0119,0.052,0.218
+melenchon,0.053,0.0096,0.019,0.034
+poutou,0.003,0.0013,0,0.003
+taubira,0.004,0.0012,0.001,0.003
+roussel,0.003,9e-4,0.001,0.002
+hidalgo,0.002,6e-4,0,0.002
+arthaud,0.002,5e-4,0.001,0.001
+jadot,0.003,5e-4,0.001,0.002
+dupont_aignan,0.001,4e-4,0.001,0
